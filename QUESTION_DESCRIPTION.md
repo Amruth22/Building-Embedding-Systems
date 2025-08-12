@@ -170,16 +170,6 @@ stats = system.get_stats()
 print(f"Total documents: {stats['total_documents']}")
 ```
 
-## 🚀 Bonus Features (Optional)
-
-Implement these for extra credit:
-
-1. **Batch Processing**: Add multiple documents at once
-2. **Document Updates**: Update existing documents
-3. **Metadata Filtering**: Search with additional filters
-4. **Performance Monitoring**: Track API usage and response times
-5. **Configuration Management**: Support for different models and parameters
-
 ## 📝 Submission Requirements
 
 1. **Main Implementation**: `embedding_system.py` with the complete `EmbeddingSystem` class
